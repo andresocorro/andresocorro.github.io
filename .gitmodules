@@ -1,0 +1,3 @@
+[submodule "javascript-challenge"]
+	path = javascript-challenge
+	url = https://github.com/andresocorro/javascript-challenge/
